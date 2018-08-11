@@ -1,2 +1,2 @@
-# chicorel
+# Chicorel
 Chicorel family site
