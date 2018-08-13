@@ -81,6 +81,5 @@ img {
 <img src="" />
 </main>
 <button class="signout hidden" onclick="signOut();">Sign out</button>
-</script>
 </body>
 </html>
